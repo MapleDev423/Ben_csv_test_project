@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "cryptocompare": "^1.0.0",
+    "csv": "^6.2.5",
+    "csvtojson": "^2.0.10",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^2.6.7",
+    "prompt-sync": "^4.2.0"
+  }
+}
